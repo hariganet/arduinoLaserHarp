@@ -1,6 +1,6 @@
-Arduinoによるレーザーハープの制作
+Laser Harp by Arduino
 
-利用環境
+開発環境
 Arduino UNO R3
 Pure Data
 cdsセル
